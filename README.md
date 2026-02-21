@@ -40,7 +40,8 @@ python winshic.pyw
 
 Download `winshic.exe` from [Releases](../../releases) and add it to your startup folder.
 
-**Startup folder location:**
+**Tip:** Press `Win+R`, type `shell:startup`, and hit Enter to open the startup folder. Drop the exe there and it will run automatically on boot.
+
 ```
 %APPDATA%\Microsoft\Windows\Start Menu\Programs\Startup
 ```
